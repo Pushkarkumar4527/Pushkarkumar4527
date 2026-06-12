@@ -142,6 +142,14 @@ Interview preparation platform for students and job seekers.
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Pushkarkumar4527/Pushkarkumar4527/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 # Current Focus
 
 ```yaml
